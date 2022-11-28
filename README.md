@@ -7,5 +7,5 @@ Jogo criado com o intuito de treinar funcionalidades em JavaScript.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/home.jpg" width="100%">
+  <img alt="home" src=".github/home.jpg">
 </p>
