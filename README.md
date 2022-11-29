@@ -6,6 +6,8 @@ Jogo criado com o intuito de treinar funcionalidades em JavaScript.
 
 <br>
 
+<p align="center"> Você pode acessar o projeto <a href="https://advinhe-o-numero.vercel.app/">aqui</a>
+
 <p align="center">
   <img alt="home" src=".github/home.jpg">
 </p>
